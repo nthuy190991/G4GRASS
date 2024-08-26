@@ -8,15 +8,15 @@ Github for GRASS (drought in Luxembourg and the Greater Region)
 <table border=0 cellpadding=0 cellspacing=0 width=1193 style='border-collapse:
  collapse;table-layout:fixed;width:895pt;mso-yfti-tbllook:1056'>
  <col width=235 style='mso-width-source:userset;mso-width-alt:8594;width:176pt'>
- <col width=128 style='mso-width-source:userset;mso-width-alt:4681;width:96pt'>
+ <col width=200 style='mso-width-source:userset;mso-width-alt:4681;width:96pt'>
  <col width=257 style='mso-width-source:userset;mso-width-alt:9398;width:193pt'>
  <col width=157 style='mso-width-source:userset;mso-width-alt:5741;width:118pt'>
  <col width=416 style='mso-width-source:userset;mso-width-alt:15213;width:312pt'>
  <tr height=20 style='height:15.0pt'>
   <td height=20 width=235 style='height:15.0pt;width:176pt'></td>
-  <td width=128 style='width:96pt'>Model extent</td>
+  <td width=200 style='width:96pt'>Model extent</td>
   <td width=257 style='width:193pt'>Resolution / Timestep</td>
-  <td width=157 style='width:118pt'>Nb of parameters</td>
+  <td width=157 style='width:118pt'>Number of parameters</td>
   <td width=416 style='width:312pt'>Notes</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
@@ -28,7 +28,11 @@ Github for GRASS (drought in Luxembourg and the Greater Region)
   style='mso-special-format:bullet'>- <font class="font5">ERA5 P and PET</font><font
   class="font0"><br>
     - 5 land-use classes, 2 geology classes<br>
-    - 4 reservoirs (2 UR, 1 FR, 1 SR)</font></span></td>
+    - 4 reservoirs (2 UR, 1 FR, 1 SR)<br>
+    - S1max = 5cm, S2max = 95 cm (fixed)<br>
+    - Calibration over discharge (4 stations) and S1 SM data
+ </font></span>
+ </td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 style='height:15.0pt'>GRASS</td>
@@ -38,13 +42,13 @@ Github for GRASS (drought in Luxembourg and the Greater Region)
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 style='height:15.0pt'>GRASS (currently used for testing DA)</td>
-  <td>Alzette sub-domain</td>
-  <td>9 (added Field capacity)</td>
+  <td>Alzette sub-catchment</td>
+  <td>9</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 style='height:15.0pt'>GRASS updated (TBD)</td>
   <td>Greater Region</td>
-  <td>9 (added Field capacity)</td>
+  <td>9</td>
   <td>Updating equations… + recalibration</td>
  </tr>
  <![if supportMisalignedColumns]>
