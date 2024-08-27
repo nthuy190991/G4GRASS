@@ -111,8 +111,78 @@ Github for GRASS (drought in Luxembourg and the Greater Region)
  <![endif]>
 </table>
 
-## C. CCCC
+## C. Data Assimilation assessment
 
+<table border=0 cellpadding=0 cellspacing=0 width=789 style='border-collapse:
+ collapse;table-layout:fixed;width:593pt'>
+ <col width=64 style='width:48pt'>
+ <col width=145 span=5 style='mso-width-source:userset;mso-width-alt:5302;
+ width:109pt'>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl67 width=64 style='height:15.0pt;width:48pt'></td>
+  <td class=xl67 width=145 style='width:109pt'></td>
+  <td colspan=4 class=xl67 width=580 style='width:436pt'>Validation
+  observations</td>
+ </tr>
+ <tr height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 style='height:30.0pt'></td>
+  <td class=xl73></td>
+  <td class=xl74 width=145 style='width:109pt'>In-situ discharge at Ettelbruck</td>
+  <td class=xl74 width=145 style='width:109pt'>In-situ SM at Weierbach</td>
+  <td class=xl74 width=145 style='width:109pt'>In-situ SM at Schifflange</td>
+  <td class=xl74 width=145 style='width:109pt'>SMAP SM</td>
+ </tr>
+ <tr height=40 style='height:30.0pt'>
+  <td rowspan=4 height=159 class=xl77 width=64 style='height:119.25pt;
+  width:48pt'>Assimilated observations</td>
+  <td class=xl74 width=145 style='width:109pt'>In-situ discharge at Ettelbruck</td>
+  <td class=xl75 width=145 style='width:109pt'>0.6414</td>
+  <td class=xl76 width=145 style='width:109pt'>0.7674</td>
+  <td class=xl76 width=145 style='width:109pt'>0.7296</td>
+  <td class=xl76 width=145 style='width:109pt'>0.6942</td>
+ </tr>
+ <tr height=40 style='height:30.0pt'>
+  <td height=40 class=xl74 width=145 style='height:30.0pt;width:109pt'>In-situ
+  SM at Weierbach</td>
+  <td class=xl76 width=145 style='width:109pt'>0.6414</td>
+  <td class=xl75 width=145 style='width:109pt'>0.9141</td>
+  <td class=xl76 width=145 style='width:109pt'>0.7296</td>
+  <td class=xl76 width=145 style='width:109pt'>0.5215</td>
+ </tr>
+ <tr height=40 style='height:30.0pt'>
+  <td height=40 class=xl74 width=145 style='height:30.0pt;width:109pt'>In-situ
+  SM at Schifflange</td>
+  <td class=xl76 width=145 style='width:109pt'>0.4817</td>
+  <td class=xl76 width=145 style='width:109pt'>0.7674</td>
+  <td class=xl75 width=145 style='width:109pt'>0.7509</td>
+  <td class=xl76 width=145 style='width:109pt'>0.6634</td>
+ </tr>
+ <tr height=39 style='mso-height-source:userset;height:29.25pt'>
+  <td height=39 class=xl74 width=145 style='height:29.25pt;width:109pt'>SMAP SM</td>
+  <td class=xl76 width=145 style='width:109pt'>0.4175</td>
+  <td class=xl76 width=145 style='width:109pt'>0.6237</td>
+  <td class=xl76 width=145 style='width:109pt'>0.7193</td>
+  <td class=xl75 width=145 style='width:109pt'>0.7441</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl67 style='height:15.0pt'></td>
+  <td class=xl73></td>
+  <td class=xl76 width=145 style='width:109pt'></td>
+  <td class=xl76 width=145 style='width:109pt'></td>
+  <td class=xl76 width=145 style='width:109pt'></td>
+  <td class=xl76 width=145 style='width:109pt'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl67 style='height:15.0pt'></td>
+  <td class=xl74 width=145 style='width:109pt'>OL</td>
+  <td class=xl76 width=145 style='width:109pt'>0.5368</td>
+  <td class=xl76 width=145 style='width:109pt'>0.7256</td>
+  <td class=xl76 width=145 style='width:109pt'>0.6962</td>
+  <td class=xl76 width=145 style='width:109pt'>0.4881</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <![endif]>
+</table>
 
 ## D. Drought Indices
 
