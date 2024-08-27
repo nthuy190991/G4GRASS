@@ -306,5 +306,6 @@ Github for GRASS (drought in Luxembourg and the Greater Region)
 
 ## E. Soil Water Deficit Index (SWDI) over the Greater Region
 
-![2018-07-09](images/SWDI on 2018-07-09.png)
+<img src="images/SWDI%20on%202018-07-09.png" alt="2018-07-09" width="400"/>
+
 
