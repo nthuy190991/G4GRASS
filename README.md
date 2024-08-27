@@ -20,7 +20,7 @@ Github for GRASS (drought in Luxembourg and the Greater Region)
   <td width=416 style='width:312pt'>Notes</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 style='height:15.0pt'>CRAKE+GRASS</td>
+  <td height=20 style='height:15.0pt'>GRASS-CRAKE</td>
   <td>Greater Region</td>
   <td>1km / Hourly</td>
   <td>8</td>
@@ -302,4 +302,9 @@ Github for GRASS (drought in Luxembourg and the Greater Region)
 </table>
 
 ![Drought Indices at Weierbach](images/WEI-4_all_indices.png)
+
+
+## E. Soil Water Deficit Index (SWDI) over the Greater Region
+
+![2018-07-09](images/SWDI on 2018-07-09.png)
 
