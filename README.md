@@ -1,9 +1,9 @@
 # G4GRASS
 Github for GRASS (drought in Luxembourg and the Greater Region)
 
-## E. Soil Water Deficit Index (SWDI) over the Greater Region
+## E. Soil Water Deficit Index (SWDI) and Evapotranspiration Deficit Index (ETDI) over the Greater Region
 
-<img src="images/SWDI%20on%202018-07-09.png" alt="2018-07-09" height="500"/> <img src="images/SWDI_colorbar.png" alt="colorbar" height="500"/>
+<img src="images/SWDI%20on%202018-07-09.png" alt="2018-07-09" height="500"/><img src="images/ETDI%20on%202018-07-09.png" alt="2018-07-09" height="500"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="500"/>
 
 
 ## D. Drought Indices
