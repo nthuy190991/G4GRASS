@@ -213,7 +213,7 @@ This work is supported by the Luxembourg National Research Fund (FNR) through th
   <td height=40 style='height:30.0pt'>DA (first iteration)</td>
   <td>Monthly</td>
   <td>Q (in-situ)</td>
-  <td>5 state vars</td>
+  <td>5 state variables</td>
   <td class=xl66 width=239 style='width:179pt'><span style='mso-special-format:
   bullet'>- <font class="font6">Gaussian, additive for P and PET. </font><font
   class="font0"><br>
@@ -224,7 +224,7 @@ This work is supported by the Luxembourg National Research Fund (FNR) through th
   <td>Daily</td>
   <td class=xl66 width=257 style='width:193pt'>Q (in-situ)<br>
     SM (in-situ)</td>
-  <td>5 state vars at all cells from the sub-catchment</td>
+  <td>5 state variables at all cells from the sub-catchment</td>
   <td rowspan=3 class=xl67 width=239 style='width:179pt'><span
   style='mso-special-format:bullet'>-<font class="font6"> Log-normal,
   multiplicative for P</font><font class="font0"><br>
@@ -236,14 +236,14 @@ This work is supported by the Luxembourg National Research Fund (FNR) through th
   <td>Daily</td>
   <td class=xl66 width=257 style='width:193pt'>Q (in-situ)<br>
     SM (in-situ)</td>
-  <td>5 state vars + 1 param (&#961;)</td>
+  <td>5 state variables + 1 parameter (&#961;)</td>
  </tr>
  <tr height=40 style='height:30.0pt'>
   <td height=40 style='height:30.0pt'>DA (last iteration)</td>
   <td>Daily</td>
   <td class=xl66 width=257 style='width:193pt'>SM (satellite)<br>
     GRACE</td>
-  <td>5 state vars at all cells from the sub-catchment</td>
+  <td>5 state variables at all cells from the sub-catchment</td>
  </tr>
  <![if supportMisalignedColumns]>
  <![endif]>
