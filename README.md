@@ -1,5 +1,14 @@
 # G4GRASS
-Github for GRASS (drought in Luxembourg and the Greater Region)
+This Github is dedicated for GRASS - BRIDGE Project on drought in Luxembourg and the Greater Region
+
+**Context:**
+Climate change is increasing the frequency and severity of hydrological extremes in many parts of the world. In Europe as well as in Luxembourg, droughts have worsened in intensity and duration in recent years, causing significant loss to several sectors, such as agriculture and forestry. There is a pressing need for developing and setting up advanced drought monitoring and prediction systems. In this context, GRASS aims to improve drought prediction accuracy by jointly assimilating, into a distributed hydrological model SUPERFLEX, various EO-based datasets, namely soil moisture (SM) and total water storage (TWS) derived from S-1 and GRACE \& GRACE-FO satellite missions respectively. The assimilation of satellite-observed water content enables an integrated assessment and modeling of water resources through the monitoring and modeling of SM and groundwater availability in Luxembourg and the Greater Region, between 2011 and 2022.
+
+**Keywords:** 
+Drought, Soil Moisture, Total Water Storage, Data assimilation, SUPERFLEX, Sentinel-1, GRACE
+
+**Acknowledgment:**
+This work is supported by the Luxembourg National Research Fund (FNR) through the GRASS project (grant no. BRIDGES2021/SR/15824592).
 
 ## A. Soil Water Deficit Index (SWDI) and Evapotranspiration Deficit Index (ETDI) over the Greater Region
 
