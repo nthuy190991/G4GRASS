@@ -10,18 +10,17 @@ Drought, Soil Moisture, Total Water Storage, Data assimilation, SUPERFLEX, Senti
 **Acknowledgment:**
 This work is supported by the Luxembourg National Research Fund (FNR) through the GRASS project (grant no. BRIDGES2021/SR/15824592).
 
-## A. Evapotranspiration Deficit Index (ETDI) and Soil Water Deficit Index (SWDI)
+## A. Evapotranspiration Deficit Index (ETDI) and Soil Moisture Deficit Index (SMDI)
 
 <p>
     <img src="images/ETDI_2011-2021_small.gif" alt="ETDI gif" height="400"/><br>
-    <em>Figure 1: ETDI over Luxembourg and the Greater Region based on PET and open-loop SUPERFLEX-simulated actual ET (AET). It computes the weekly ET deficit according to its min, max and median values over the same week every year during 11-year period of SUPERFLEX outputs.</em>
+    <em>Figure 1: ETDI over Luxembourg and the Greater Region based on PET and open-loop SUPERFLEX-simulated actual ET (AET). It computes the weekly ET deficit according to the median, maximum and minimum values over the same week every year during 11-year period of SUPERFLEX outputs.</em>
 </p>
 
 <p>
     <img src="images/SWDI_2011-2021_small.gif" alt="SWDI gif" height="400"/><br>
-    <em>Figure 2: WSDI over Luxembourg and the Greater Region based on open-loop SUPERFLEX-simulated total water storage. It computes the weekly soil water deficit according to its mean and standard deviation over the same week every year during 11-year period of SUPERFLEX outputs.</em>
+    <em>Figure 2: SMDI over Luxembourg and the Greater Region based on open-loop SUPERFLEX-simulated total water storage. It computes the weekly soil water deficit according to the median, maximum and minimum soil water over the same week every year during 11-year period of SUPERFLEX outputs.</em>
 </p>
-
 
 ## B. Standardized Soil moisture Index (SSI)
 
@@ -113,7 +112,7 @@ Note: Why only Luxembourg? I can only get the river shapefile for Luxembourg for
   and forest meteorology 133, no. 1-4 (2005): 69-88.</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 style='height:15.0pt'>SWDI (weekly, 1m) - Soil Water Deficit
+  <td height=20 style='height:15.0pt'>SMDI (weekly, 1m) - Soil Moisture Deficit
   Index</td>
   <td>Water content (S)</td>
   <td>Cell 1km x 1km</td>
@@ -159,14 +158,14 @@ The Figure below summarizes all these drought indices at Weierbach, the most ins
 
 <p>
     <img src="images/WEI-4_all_indices.png" alt><br>
-    <em>Figure 5: Drought Indices at Weierbach. 1st panel: ERA-5 precipitation (blue) and potential evapotranspiration (green). 2nd-4th panel: SPI-3, SPEI-3, SSFI-3. 5th panel: SGI (based on WEI-GW3 station). 6th -7th panel: ETDI and SWDI (based on model output actual ET and total water storage, respectively). 8th-10th: SSI based on observed SM, open-loop simulated SM, and reanalysis SM. 11th-13th: LFI based on observed discharge, open-loop simulated discharge, and reanalysis discharge. </em>
+    <em>Figure 5: Drought Indices at Weierbach. 1st panel: ERA-5 precipitation (blue) and potential evapotranspiration (green). 2nd-4th panel: SPI-3, SPEI-3, SSFI-3. 5th panel: SGI (based on WEI-GW3 station). 6th -7th panel: ETDI and SMDI (based on model output actual ET and total water storage, respectively). 8th-10th: SSI based on observed SM, open-loop simulated SM, and reanalysis SM. 11th-13th: LFI based on observed discharge, open-loop simulated discharge, and reanalysis discharge. </em>
 </p>
 
 <p>
     <img src="images/SWDI%20on%202018-09-03.png" alt="2018-09-03" height="350"/><img src="images/ETDI%20on%202018-09-03.png" alt="2018-09-03" height="350"/>
     <img src="images/SSI%20on%202018-09-03.png" alt="2018-09-03" height="350"/><img src="images/LFI%20on%202018-10-26.png" alt="2018-10-26" height="350"/>
 <br>
-    <em>Figure 6: ETDI, SWDI and SSI on 2018-09-03, and LFI on 2018-10-26. </em>
+    <em>Figure 6: ETDI, SMDI and SSI on 2018-09-03, and LFI on 2018-10-26. </em>
 </p>
 
 <!-- 
