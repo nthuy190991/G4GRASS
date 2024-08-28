@@ -10,9 +10,17 @@ Drought, Soil Moisture, Total Water Storage, Data assimilation, SUPERFLEX, Senti
 **Acknowledgment:**
 This work is supported by the Luxembourg National Research Fund (FNR) through the GRASS project (grant no. BRIDGES2021/SR/15824592).
 
-## A. Soil Water Deficit Index (SWDI) and Evapotranspiration Deficit Index (ETDI) over the Greater Region
+## A. Evapotranspiration Deficit Index (ETDI) and Soil Water Deficit Index (SWDI)
 
-<img src="images/ETDI_2011-2021_small.gif" alt="ETDI gif" height="400"/><img src="images/SWDI_2011-2021_small.gif" alt="SWDI gif" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/>
+<p>
+    <img src="images/ETDI_2011-2021_small.gif" alt="ETDI gif" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/><br>
+    <em>Figure 1: ETDI over Luxembourg and the Greater Region based on PET and open-loop SUPERFLEX-simulated actual ET (AET). It computes the weekly ET deficit according to its min, max and median values over the same week every year during 11-year period of SUPERFLEX outputs.</em>
+</p>
+
+<p>
+    <img src="images/SWDI_2011-2021_small.gif" alt="SWDI gif" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/><br>
+    <em>Figure 2: WSDI over Luxembourg and the Greater Region based on open-loop SUPERFLEX-simulated total water storage. It computes the weekly soil water deficit according to its mean and standard deviation over the same week every year during 11-year period of SUPERFLEX outputs.</em>
+</p>
 
 <!-- 
 <img src="images/SWDI%20on%202016-02-01.png" alt="2016-02-01" height="400"/><img src="images/ETDI%20on%202016-02-01.png" alt="2016-02-01" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/>
@@ -22,13 +30,18 @@ This work is supported by the Luxembourg National Research Fund (FNR) through th
 
 ## B. Standardized Soil moisture Index (SSI)
 
-<img src="images/SSI_2011-2021_small.gif" alt="SSI gif" height="400"/><img src="images/SSI_colorbar.png" alt="colorbar" height="400"/>
+<p>
+    <img src="images/SSI_2011-2021_small.gif" alt="SSI gif" height="400"/><img src="images/SSI_colorbar.png" alt="colorbar" height="400"/><br>
+    <em>Figure 3: SSI over Luxembourg and the Greater Region based on open-loop SUPERFLEX-simulated soil moisture (SM). It computes the SM anomalies for each calendar day (here only show one day per week) according to its mean and standard deviation over the same month every year during 11-year period of SUPERFLEX outputs.</em>
+</p>
 
 ## C. Low-Flow Index (SSI)
 <p>
     <img src="images/LFI_2011-2021_small.gif" alt="LFI gif" height="400"/><br>
     <em>Figure 4: LFI over Luxembourg based on open-loop SUPERFLEX-simulated discharge. It computes the low-flow hazard level for each calendar day, by comparing the current discharge and the 95th-percentile exceedence value of Flow Duration Curve (computed with a 31-day moving window for a 11-year period of SUPERFLEX outputs).</em>
 </p>
+
+Note: Why only Luxembourg? I can only get the river shapefile for Luxembourg for now.
 
 ## D. Summary of Drought Indices
 
@@ -154,9 +167,9 @@ The Figure below summarizes all these drought indices at Weierbach, the most ins
     <em>Figure 5: Drought Indices at Weierbach. 1st panel: ERA-5 precipitation (blue) and potential evapotranspiration (green). 2nd-4th panel: SPI-3, SPEI-3, SSFI-3. 5th panel: SGI (based on WEI-GW3 station). 6th -7th panel: ETDI and SWDI (based on model output actual ET and total water storage, respectively). 8th-10th: SSI based on observed SM, open-loop simulated SM, and reanalysis SM. 11th-13th: LFI based on observed discharge, open-loop simulated discharge, and reanalysis discharge. </em>
 </p>
 
-## A. Presentation of the hydrologic model
+## D. Presentation of the hydrologic SUPERFLEX model and Data Assimilation
 
-### A.1. SUPERFLEX model version history
+### D.1. SUPERFLEX model version history
 
 <table border=0 cellpadding=0 cellspacing=0 width=1193 style='border-collapse:
  collapse;table-layout:fixed;width:895pt;mso-yfti-tbllook:1056'>
@@ -208,7 +221,7 @@ The Figure below summarizes all these drought indices at Weierbach, the most ins
  <![endif]>
 </table>
 
-### A.2. DA development version history
+### D.2. DA development version history
 
 <table border=0 cellpadding=0 cellspacing=0 width=1159 style='border-collapse:
  collapse;table-layout:fixed;width:869pt;mso-yfti-tbllook:1056'>
@@ -264,7 +277,7 @@ The Figure below summarizes all these drought indices at Weierbach, the most ins
  <![endif]>
 </table>
 
-## C. Data Assimilation assessment
+## E. Data Assimilation assessments
 
 <table border=0 cellpadding=0 cellspacing=0 width=789 style='border-collapse:
  collapse;table-layout:fixed;width:593pt'>
