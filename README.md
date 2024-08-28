@@ -2,7 +2,7 @@
 This Github is dedicated for GRASS - FNR-BRIDGE Project on drought in Luxembourg and the Greater Region
 
 **Context:**
-Climate change is increasing the frequency and severity of hydrological extremes in many parts of the world. In Europe as well as in Luxembourg, droughts have worsened in intensity and duration in recent years, causing significant loss to several sectors, such as agriculture and forestry. There is a pressing need for developing and setting up advanced drought monitoring and prediction systems. In this context, GRASS aims to improve drought prediction accuracy by jointly assimilating, into a distributed hydrological model SUPERFLEX, various EO-based datasets, namely soil moisture (SM) and total water storage (TWS) derived from S-1 and GRACE \& GRACE-FO satellite missions respectively. The assimilation of satellite-observed water content enables an integrated assessment and modeling of water resources through the monitoring and modeling of SM and groundwater availability in Luxembourg and the Greater Region, between 2011 and 2022.
+Climate change is increasing the frequency and severity of hydrological extremes in many parts of the world. In Europe as well as in Luxembourg, droughts have worsened in intensity and duration in recent years, causing significant loss to several sectors, such as agriculture and forestry. There is a pressing need for developing and setting up advanced drought monitoring and prediction systems. In this context, GRASS aims to improve drought prediction accuracy by jointly assimilating, into a distributed hydrological model SUPERFLEX, various EO-based datasets, namely soil moisture (SM) and total water storage (TWS) derived from SMAP/AMSR-2/S-1 and GRACE \& GRACE-FO satellite missions respectively. The assimilation of satellite-observed water content enables an integrated assessment and modeling of water resources through the monitoring and modeling of SM and groundwater availability in Luxembourg and the Greater Region, between 2011 and 2022.
 
 **Keywords:** 
 Drought, Soil Moisture, Total Water Storage, Data assimilation, SUPERFLEX, Sentinel-1, GRACE
@@ -46,31 +46,31 @@ This work is supported by the Luxembourg National Research Fund (FNR) through th
  <tr height=22 style='height:16.5pt'>
   <td rowspan=3 height=66 class=xl69 style='height:49.5pt'>Meteorological
   droughts</td>
-  <td>SPI (1, 3, 6, 9, 12)</td>
+  <td>SPI (1, 3, 6, 9, 12, 24)</td>
   <td>P</td>
   <td>0.25<font class="font8"><sup>o </sup></font><font class="font7">x 0.25</font><font
   class="font8"><sup>o</sup></font><font class="font7"> (ERA5)</font></td>
-  <td>1, 3, 6, 9, 12 months</td>
+  <td>1, 3, 6, 9, 12, 24 months</td>
   <td class=xl70>LLoyd-Hughes, B. and Saunders, M.A.: A drought climatology for
   Europe. International Journal of Climatology, 22, 1571-1592, 2002.</td>
  </tr>
  <tr height=22 style='height:16.5pt'>
-  <td height=22 style='height:16.5pt'>SPEI (1, 3, 6, 9, 12)</td>
+  <td height=22 style='height:16.5pt'>SPEI (1, 3, 6, 9, 12, 24)</td>
   <td>P, PET</td>
   <td>0.25<font class="font8"><sup>o </sup></font><font class="font7">x 0.25</font><font
   class="font8"><sup>o</sup></font><font class="font7"> (ERA5)</font></td>
-  <td>1, 3, 6, 9, 12 months</td>
+  <td>1, 3, 6, 9, 12, 24 months</td>
   <td class=xl70>Vicente-Serrano S.M., Beguería S., López-Moreno J.I.: A
   Multi-scalar drought index sensitive to global warming: The Standardized
   Precipitation Evapotranspiration Index. Journal of Climate, 23, 1696-1718,
   2010.</td>
  </tr>
  <tr height=22 style='height:16.5pt'>
-  <td height=22 style='height:16.5pt'>SSFI (1, 3, 6, 9, 12)</td>
+  <td height=22 style='height:16.5pt'>SSFI (1, 3, 6, 9, 12, 24)</td>
   <td>P</td>
   <td>0.25<font class="font8"><sup>o </sup></font><font class="font7">x 0.25</font><font
   class="font8"><sup>o</sup></font><font class="font7"> (ERA5)</font></td>
-  <td>1, 3, 6, 9, 12 months</td>
+  <td>1, 3, 6, 9, 12, 24 months</td>
   <td class=xl70>Tijdeman, E., Stahl, K., &amp; Tallaksen, L. M.: Drought
   characteristics derived based on the Standardized Streamflow Index: A large
   sample comparison for parametric and nonparametric methods. Water Resources
