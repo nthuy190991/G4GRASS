@@ -163,10 +163,10 @@ The Figure below summarizes all these drought indices at Weierbach, the most ins
 </p>
 
 <p>
-    <img src="images/SWDI%20on%202018-07-09.png" alt="2018-07-09" height="400"/><img src="images/ETDI%20on%202018-07-09.png" alt="2018-07-09" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/>
-    <img src="images/SSI%20on%202018-07-09.png" alt="2018-07-09" height="400"/><img src="images/LFI%20on%202018-07-09.png" alt="2018-07-09" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/>
+    <img src="images/SWDI%20on%202018-09-03.png" alt="2018-09-03" height="350"/><img src="images/ETDI%20on%202018-09-03.png" alt="2018-09-03" height="350"/>
+    <img src="images/SSI%20on%202018-09-03.png" alt="2018-09-03" height="350"/><img src="images/LFI%20on%202018-10-26.png" alt="2018-10-26" height="350"/>
 <br>
-    <em>Figure 6: Drought Indices on 2018-09-03. ETDI, SWDI and SSI on 2018-09-03, and LFI on 2018-10-28. </em>
+    <em>Figure 6: ETDI, SWDI and SSI on 2018-09-03, and LFI on 2018-10-26. </em>
 </p>
 
 <!-- 
