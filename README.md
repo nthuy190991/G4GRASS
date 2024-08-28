@@ -145,8 +145,12 @@ This work is supported by the Luxembourg National Research Fund (FNR) through th
  <![endif]>
 </table>
 
-![Drought Indices at Weierbach](images/WEI-4_all_indices.png)
+The Figure below summarizes all these drought indices at Weierbach, the most instrumented and studied sub-catchment in the Alzette River basin in Luxembourg, where multiple ground stations have been maintained by LIST.
 
+<p>
+    <img src="images/WEI-4_all_indices.png" alt><br>
+    <em>Figure 5: Drought Indices at Weierbach. 1st panel: ERA-5 precipitation (blue) and potential evapotranspiration (green). 2nd-4th panel: SPI-3, SPEI-3, SSFI-3. 5th panel: SGI (based on WEI-GW3 station). 6th -7th panel: ETDI and SWDI (based on model output actual ET and total water storage, respectively). 8th-10th: SSI based on observed SM, open-loop simulated SM, and reanalysis SM. 11th-13th: LFI based on observed discharge, open-loop simulated discharge, and reanalysis discharge. </em>
+</p>
 
 ## A. Presentation of the hydrologic model
 
