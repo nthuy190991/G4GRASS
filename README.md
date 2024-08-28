@@ -33,7 +33,7 @@ This work is supported by the Luxembourg National Research Fund (FNR) through th
 ## C. Low-Flow Index (SSI)
 <p>
     <img src="images/LFI_2011-2021_small.gif" alt="LFI gif" height="400"/><br>
-    <em>Figure 4: LFI over Luxembourg based on open-loop SUPERFLEX-simulated discharge. It computes the low-flow hazard level for each calendar day, by comparing the current discharge and the 95th-percentile exceedence value of Flow Duration Curve (computed with a 31-day moving window for a 11-year period of SUPERFLEX outputs).</em>
+    <em>Figure 4: LFI over Luxembourg based on open-loop SUPERFLEX-simulated discharge. It computes the low-flow hazard level for each calendar day (here only show days with significant hazards), by comparing the current discharge and the 95th-percentile exceedence value of Flow Duration Curve (computed with a 31-day moving window for a 11-year period of SUPERFLEX outputs).</em>
 </p>
 
 Note: Why only Luxembourg? I can only get the river shapefile for Luxembourg for now.
