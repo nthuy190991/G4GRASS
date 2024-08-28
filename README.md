@@ -284,6 +284,17 @@ The Figure below summarizes all these drought indices at Weierbach, the most ins
  <![endif]>
 </table>
 
+<p>
+    <img src="images/workflow.png" alt><br>
+    <em>Figure 7: GRASS SUPERFLEX parameters and variables. </em>
+</p>
+
+<p>
+    <img src="images/EnKS.png" alt><br>
+    <em>Figure 8: Ensemble Kalman Smoother in GRASS. </em>
+</p>
+
+
 ## E. Data Assimilation assessments
 
 <table border=0 cellpadding=0 cellspacing=0 width=789 style='border-collapse:
