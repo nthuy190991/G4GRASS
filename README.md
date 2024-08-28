@@ -13,12 +13,12 @@ This work is supported by the Luxembourg National Research Fund (FNR) through th
 ## A. Evapotranspiration Deficit Index (ETDI) and Soil Water Deficit Index (SWDI)
 
 <p>
-    <img src="images/ETDI_2011-2021_small.gif" alt="ETDI gif" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/><br>
+    <img src="images/ETDI_2011-2021_small.gif" alt="ETDI gif" height="400"/><br>
     <em>Figure 1: ETDI over Luxembourg and the Greater Region based on PET and open-loop SUPERFLEX-simulated actual ET (AET). It computes the weekly ET deficit according to its min, max and median values over the same week every year during 11-year period of SUPERFLEX outputs.</em>
 </p>
 
 <p>
-    <img src="images/SWDI_2011-2021_small.gif" alt="SWDI gif" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/><br>
+    <img src="images/SWDI_2011-2021_small.gif" alt="SWDI gif" height="400"/><br>
     <em>Figure 2: WSDI over Luxembourg and the Greater Region based on open-loop SUPERFLEX-simulated total water storage. It computes the weekly soil water deficit according to its mean and standard deviation over the same week every year during 11-year period of SUPERFLEX outputs.</em>
 </p>
 
