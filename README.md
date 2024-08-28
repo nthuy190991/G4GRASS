@@ -2,7 +2,7 @@
 This Github is dedicated for GRASS - FNR-BRIDGE Project on drought in Luxembourg and the Greater Region
 
 **Context:**
-Climate change is increasing the frequency and severity of hydrological extremes in many parts of the world. In Europe as well as in Luxembourg, droughts have worsened in intensity and duration in recent years, causing significant loss to several sectors, such as agriculture and forestry. There is a pressing need for developing and setting up advanced drought monitoring and prediction systems. In this context, GRASS aims to improve drought prediction accuracy by jointly assimilating, into a distributed hydrological model SUPERFLEX, various EO-based datasets, namely soil moisture (SM) and total water storage (TWS) derived from SMAP/AMSR-2/S-1 and GRACE \& GRACE-FO satellite missions respectively. The assimilation of satellite-observed water content enables an integrated assessment and modeling of water resources through the monitoring and modeling of SM and groundwater availability in Luxembourg and the Greater Region, between 2011 and 2022.
+Climate change is increasing the frequency and severity of hydrological extremes in many parts of the world. In Europe as well as in Luxembourg, droughts have worsened in intensity and duration in recent years, causing significant loss to several sectors, such as agriculture and forestry. There is a pressing need for developing and setting up advanced drought monitoring and prediction systems. In this context, GRASS aims to improve drought prediction accuracy by jointly assimilating, into a distributed hydrological model SUPERFLEX, various EO-based datasets, namely soil moisture (SM) and total water storage (TWS) derived from SMAP/AMSR-2/S-1 and GRACE \& GRACE-FO satellite missions respectively. The assimilation of satellite-observed water content enables an integrated assessment and modeling of water resources through the monitoring and modeling of SM and groundwater availability in Luxembourg and the Greater Region, between 2011 and 2021.
 
 **Keywords:** 
 Drought, Soil Moisture, Total Water Storage, Data assimilation, SUPERFLEX, Sentinel-1, GRACE
@@ -26,7 +26,7 @@ This work is supported by the Luxembourg National Research Fund (FNR) through th
 ## B. Standardized Soil moisture Index (SSI)
 
 <p>
-    <img src="images/SSI_2011-2021_small.gif" alt="SSI gif" height="400"/><img src="images/SSI_colorbar.png" alt="colorbar" height="400"/><br>
+    <img src="images/SSI_2011-2021_small.gif" alt="SSI gif" height="400"/><br>
     <em>Figure 3: SSI over Luxembourg and the Greater Region based on open-loop SUPERFLEX-simulated soil moisture (SM). It computes the SM anomalies for each calendar day (here only show one day per week) according to its mean and standard deviation over the same month every year during 11-year period of SUPERFLEX outputs.</em>
 </p>
 
@@ -166,7 +166,7 @@ The Figure below summarizes all these drought indices at Weierbach, the most ins
     <img src="images/SWDI%20on%202018-07-09.png" alt="2018-07-09" height="400"/><img src="images/ETDI%20on%202018-07-09.png" alt="2018-07-09" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/>
     <img src="images/SSI%20on%202018-07-09.png" alt="2018-07-09" height="400"/><img src="images/LFI%20on%202018-07-09.png" alt="2018-07-09" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/>
 <br>
-    <em>Figure 6: Drought Indices on 2018-08-02. 1st panel: ERA-5 precipitation (blue) and potential evapotranspiration (green). 2nd-4th panel: SPI-3, SPEI-3, SSFI-3. 5th panel: SGI (based on WEI-GW3 station). 6th -7th panel: ETDI and SWDI (based on model output actual ET and total water storage, respectively). 8th-10th: SSI based on observed SM, open-loop simulated SM, and reanalysis SM. 11th-13th: LFI based on observed discharge, open-loop simulated discharge, and reanalysis discharge. </em>
+    <em>Figure 6: Drought Indices on 2018-09-03. ETDI, SWDI and SSI on 2018-09-03, and LFI on 2018-10-28. </em>
 </p>
 
 <!-- 
