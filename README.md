@@ -24,7 +24,11 @@ This work is supported by the Luxembourg National Research Fund (FNR) through th
 
 <img src="images/SSI_2011-2021_small.gif" alt="SSI gif" height="400"/><img src="images/SSI_colorbar.png" alt="colorbar" height="400"/>
 
-## D. Drought Indices
+## C. Low-Flow Index (SSI)
+
+<img src="images/LFI_2011-2021_small.gif" alt="LFI gif" height="400"/><img src="images/LFI_colorbar.png" alt="colorbar" height="400"/>
+
+## D. Summary of Drought Indices
 
 <table border=0 cellpadding=0 cellspacing=0 width=2099 style='border-collapse:
  collapse;table-layout:fixed;width:1576pt;mso-yfti-tbllook:1056'>
