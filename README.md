@@ -22,11 +22,6 @@ This work is supported by the Luxembourg National Research Fund (FNR) through th
     <em>Figure 2: WSDI over Luxembourg and the Greater Region based on open-loop SUPERFLEX-simulated total water storage. It computes the weekly soil water deficit according to its mean and standard deviation over the same week every year during 11-year period of SUPERFLEX outputs.</em>
 </p>
 
-<!-- 
-<img src="images/SWDI%20on%202016-02-01.png" alt="2016-02-01" height="400"/><img src="images/ETDI%20on%202016-02-01.png" alt="2016-02-01" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/>
-
-<img src="images/SWDI%20on%202018-07-09.png" alt="2018-07-09" height="400"/><img src="images/ETDI%20on%202018-07-09.png" alt="2018-07-09" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/>
--->
 
 ## B. Standardized Soil moisture Index (SSI)
 
@@ -166,6 +161,18 @@ The Figure below summarizes all these drought indices at Weierbach, the most ins
     <img src="images/WEI-4_all_indices.png" alt><br>
     <em>Figure 5: Drought Indices at Weierbach. 1st panel: ERA-5 precipitation (blue) and potential evapotranspiration (green). 2nd-4th panel: SPI-3, SPEI-3, SSFI-3. 5th panel: SGI (based on WEI-GW3 station). 6th -7th panel: ETDI and SWDI (based on model output actual ET and total water storage, respectively). 8th-10th: SSI based on observed SM, open-loop simulated SM, and reanalysis SM. 11th-13th: LFI based on observed discharge, open-loop simulated discharge, and reanalysis discharge. </em>
 </p>
+
+<p>
+    <img src="images/SWDI%20on%202018-07-09.png" alt="2018-07-09" height="400"/><img src="images/ETDI%20on%202018-07-09.png" alt="2018-07-09" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/>
+    <img src="images/SSI%20on%202018-07-09.png" alt="2018-07-09" height="400"/><img src="images/LFI%20on%202018-07-09.png" alt="2018-07-09" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/>
+<br>
+    <em>Figure 6: Drought Indices on 2018-08-02. 1st panel: ERA-5 precipitation (blue) and potential evapotranspiration (green). 2nd-4th panel: SPI-3, SPEI-3, SSFI-3. 5th panel: SGI (based on WEI-GW3 station). 6th -7th panel: ETDI and SWDI (based on model output actual ET and total water storage, respectively). 8th-10th: SSI based on observed SM, open-loop simulated SM, and reanalysis SM. 11th-13th: LFI based on observed discharge, open-loop simulated discharge, and reanalysis discharge. </em>
+</p>
+
+<!-- 
+<img src="images/SWDI%20on%202016-02-01.png" alt="2016-02-01" height="400"/><img src="images/ETDI%20on%202016-02-01.png" alt="2016-02-01" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/>
+
+-->
 
 ## D. Presentation of the hydrologic SUPERFLEX model and Data Assimilation
 
