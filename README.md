@@ -14,10 +14,15 @@ This work is supported by the Luxembourg National Research Fund (FNR) through th
 
 <img src="images/ETDI_2011-2021_small.gif" alt="ETDI gif" height="400"/><img src="images/SWDI_2011-2021_small.gif" alt="SWDI gif" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/>
 
+<!-- 
 <img src="images/SWDI%20on%202016-02-01.png" alt="2016-02-01" height="400"/><img src="images/ETDI%20on%202016-02-01.png" alt="2016-02-01" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/>
 
 <img src="images/SWDI%20on%202018-07-09.png" alt="2018-07-09" height="400"/><img src="images/ETDI%20on%202018-07-09.png" alt="2018-07-09" height="400"/><img src="images/SWDI_colorbar.png" alt="colorbar" height="400"/>
+-->
 
+## B. Standardized Soil moisture Index (SSI)
+
+<img src="images/SSI_2011-2021_small.gif" alt="SSI gif" height="400"/><img src="images/SSI_colorbar.png" alt="colorbar" height="400"/>
 
 ## D. Drought Indices
 
