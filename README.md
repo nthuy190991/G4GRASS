@@ -14,19 +14,19 @@ This work is supported by the Luxembourg National Research Fund (FNR) through th
 
 <p>
     <img src="images/ETDI_2011-2021_small.gif" alt="ETDI gif" height="400"/><br>
-    <em>Figure 1: ETDI over Luxembourg and the Greater Region based on PET and open-loop SUPERFLEX-simulated actual ET (AET). It computes the weekly ET deficit according to the median, maximum and minimum values over the same week every year during 11-year period of SUPERFLEX outputs.</em>
+    <em>Figure 1: ETDI over Luxembourg and the Greater Region based on PET and open-loop SUPERFLEX-simulated actual ET (AET). It computes the weekly ET deficit according to the median, maximum and minimum values for the same week over a 11-year period of SUPERFLEX outputs.</em>
 </p>
 
 <p>
     <img src="images/SWDI_2011-2021_small.gif" alt="SWDI gif" height="400"/><br>
-    <em>Figure 2: SMDI over Luxembourg and the Greater Region based on open-loop SUPERFLEX-simulated total water storage. It computes the weekly soil water deficit according to the median, maximum and minimum soil water over the same week every year during 11-year period of SUPERFLEX outputs.</em>
+    <em>Figure 2: SMDI over Luxembourg and the Greater Region based on open-loop SUPERFLEX-simulated total water storage. It computes the weekly soil water deficit according to the median, maximum and minimum soil water for the same week over a 11-year period of SUPERFLEX outputs.</em>
 </p>
 
 ## B. Standardized Soil moisture Index (SSI)
 
 <p>
     <img src="images/SSI_2011-2021_small.gif" alt="SSI gif" height="400"/><br>
-    <em>Figure 3: SSI over Luxembourg and the Greater Region based on open-loop SUPERFLEX-simulated soil moisture (SM). It computes the SM anomalies for each calendar day (here only show one day per week) according to its mean and standard deviation over the same month every year during 11-year period of SUPERFLEX outputs.</em>
+    <em>Figure 3: SSI over Luxembourg and the Greater Region based on open-loop SUPERFLEX-simulated soil moisture (SM). It computes the SM anomalies for each calendar day (here only show one day per week) according to its mean and standard deviation for the same month over a 11-year period of SUPERFLEX outputs.</em>
 </p>
 
 ## C. Low-Flow Index (SSI)
@@ -34,8 +34,6 @@ This work is supported by the Luxembourg National Research Fund (FNR) through th
     <img src="images/LFI_2011-2021_small.gif" alt="LFI gif" height="400"/><br>
     <em>Figure 4: LFI over Luxembourg based on open-loop SUPERFLEX-simulated discharge. It computes the low-flow hazard level for each calendar day (here only show days with significant hazards), by comparing the current discharge and the 95th-percentile exceedence value of Flow Duration Curve (computed with a 31-day moving window for a 11-year period of SUPERFLEX outputs).</em>
 </p>
-
-Note: Why only Luxembourg? I can only get the river shapefile for Luxembourg for now.
 
 ## D. Summary of Drought Indices
 
