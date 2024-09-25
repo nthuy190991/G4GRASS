@@ -219,7 +219,7 @@ The Figure below summarizes all these drought indices at Weierbach, the most ins
   <td height=20 style='height:15.0pt'>GRASS updated (TBD)</td>
   <td>Greater Region</td>
   <td>9</td>
-  <td>Updating equations… + recalibration</td>
+  <td>Updated equations + recalibration (40 discharge stations)</td>
  </tr>
  <![if supportMisalignedColumns]>
  <![endif]>
